@@ -1,10 +1,13 @@
 # roadmap
 
+## Milestones (onde queremos chegar?)
+a group of tasks that together marks a significant achievement within a time frame
 
 ## Atividades sendo desenvolvidas em 2022.2
 
 ### Planejamento
 - Mapeamento de tasks atuais e futuras em roadmap
+> Milestone: Roadmap de novas funcionalidades e melhorias 
 
 ### Desenvolvimento
 - Visualização Grafana
@@ -19,7 +22,6 @@
 - Plano de comunicação para redes sociais
 - Atualização do site
 - Criação de um plano de divulgação
-
 
 ## Backlog 2022.2
 - Testes automatizados
